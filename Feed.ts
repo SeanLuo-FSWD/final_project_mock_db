@@ -23,4 +23,8 @@ let feed: Post[] = [];
 
 feed.push(post1);
 
+console.log("Donnneeeee");
+
 console.log(feed);
+
+console.log("voilaaaaa");
